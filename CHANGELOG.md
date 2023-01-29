@@ -1,3 +1,5 @@
+- entregue release 0.2.0 hotfix
+- atualizando changelog
 - Merge tag 'hotfix-feature_f2' into develop
 - Merge branch 'hotfix/hotfix-feature_f2'
 - correcao hotfix feature f2
