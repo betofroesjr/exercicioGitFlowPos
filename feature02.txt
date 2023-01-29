@@ -1,0 +1,1 @@
+echo "Feature 02 - pratica giflow" > arquivo-02.txt
