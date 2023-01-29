@@ -1,3 +1,12 @@
+- entregue release 0.2.0 hotfix
+- atualizando changelog
+- Merge tag 'hotfix-feature_f2' into develop
+- Merge branch 'hotfix/hotfix-feature_f2'
+- correcao hotfix feature f2
+- Merge tag '0.2.0' into develop
+- Merge branch 'release/0.2.0'
+- melhoria f2 release 0.2.0
+- atualizando chengelog
 - Merge branch 'feature/feature_f2' into develop
 - Merge branch 'develop' into feature/feature_f2
 - melhoria f2 entregue
