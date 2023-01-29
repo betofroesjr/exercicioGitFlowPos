@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+- melhoria entregue f4
+- Merge tag '0.2.1' into develop
+- Merge branch 'release/0.2.1'
+- atualizando chengelog
 - entregue release 0.2.0 hotfix
 - atualizando changelog
 - Merge tag 'hotfix-feature_f2' into develop
@@ -11,8 +14,6 @@
 - Merge branch 'feature/feature_f2' into develop
 - Merge branch 'develop' into feature/feature_f2
 - melhoria f2 entregue
-=======
->>>>>>> e2a9c01 (melhoria entregue f4)
 - melhoria f3 entregue
 - Merge tag '0.1.0' into develop
 - Merge branch 'release/0.1.0'
