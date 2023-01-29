@@ -1,1 +1,3 @@
+- melhoria f1 entregue
+- criando changelog
 - iniciando projeto
